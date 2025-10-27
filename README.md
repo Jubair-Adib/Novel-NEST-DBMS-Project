@@ -1,78 +1,68 @@
-# NOVEL NEST - Library Management System
+<div align="center">
+  <img src="assets/logo.png" alt="NOVEL NEST Logo" width="300"/>
+</div>
 
-NOVEL NEST is a modern, full-featured library management portal built with PHP and SQLite. It supports user and admin roles, book management, lending, buying, attendance, news, messaging, and more. The project is designed for DBMS coursework and is suitable for university-level demonstration and real-world adaptation.
+# NOVEL NEST 📚
 
-## Features
-- **User & Admin Authentication**: Secure login, profile management, and role-based access.
-- **Book Management**: Add, edit, delete, and search books. PDF support and branch-wise stock.
-- **Author Management**: Add, edit, delete authors. Author profiles and book lists.
-- **Lending & Buying**: Users can lend and buy books, view history, and download receipts.
-- **Attendance Tracking**: Branch-wise entry/exit logs for users.
-- **News System**: Post, edit, delete news. Users can react and comment.
-- **Messaging**: Users can send messages to branch admins; admins can reply.
-- **Admin Dashboard**: Manage users, books, authors, branches, sales, news, and messages.
-- **Statistics & Ratings**: User ratings based on activity; counters for users, books, sales, news, authors, and PDFs.
-- **Responsive UI**: Modern, mobile-friendly design with custom CSS and images.
+A modern, full-featured **Library Management System** built with PHP and SQLite, designed for user and admin roles. Supports book management, lending, buying, attendance, news, messaging, and more—ideal for university coursework and real-world adaptation.
 
-## Project Structure
-```
-├── about.php
-├── admin.php
-├── authors.php
-├── books.php
-├── contact.php
-├── index.php
-├── news.php
-├── profile.php
-├── users.php
-├── ... (other admin/user modules)
-├── assets/
-│   ├── style.css
-│   ├── logo.png
-│   ├── Covers/
-│   ├── Author/
-│   ├── about/
-│   └── ...
-├── db/
-│   ├── nn_library.sqlite
-│   ├── schema.sql
-│   └── books_sample.sql
-├── includes/
-│   └── db_connect.php
-```
+## 📑 Table of Contents
 
-## Setup Instructions
-1. **Clone or Download** the repository to your local machine.
-2. **Database Setup**:
-   - The project uses SQLite. The schema is in `db/schema.sql`.
-   - On first run, sample data is auto-generated if the database is empty.
-   - You can manually import `books_sample.sql` for more book data.
-3. **Configure PHP**:
-   - Ensure PHP 7.4+ is installed with SQLite PDO extension.
-   - Place the project in your web server's root (e.g., `htdocs` for XAMPP/MAMP).
-4. **Assets**:
-   - All images, covers, and author photos are in the `assets/` folder.
-5. **Run the App**:
-   - Open `index.php` in your browser.
-   - Register as a user or login as admin (default admin setup required).
-
-## Usage
-- **Users**: Register, login, view/update profile, lend/buy books, view history, send messages, react/comment on news.
-- **Admins**: Login, access dashboard, manage users, books, authors, branches, news, and messages.
-- **Contact & About**: View branch contact list and designer info.
-
-## Database Schema
-- See `db/schema.sql` for all tables: users, books, authors, lend, buy, attendance, amounts, branches, news, admins, messages, book_branches, news_comments, news_reacts, etc.
-
-## Screenshots & Presentation
-- See `assets/Screenshots/` and `assets/45_59_DBMS_Presentation.pptx` for demo images and slides.
-
-## Credits
-- Designed by Jubair Ahammad Akter & Ariful Islam (CSEDU, University of Dhaka)
-- See `about.php` for more info and contact links.
-
-## License
-This project is for educational use. You may adapt and extend it for your own needs.
+<details open>
+  <summary><b>Expand Table of Contents</b></summary>
+  <ul>
+    <li><a href="#-project-overview">📱 Project Overview</a></li>
+    <li><a href="#✨-features">✨ Features</a></li>
+    <li><a href="#-project-structure">🏗️ Project Structure</a></li>
+    <li><a href="#-setup-instructions">🚀 Setup Instructions</a></li>
+    <li><a href="#-usage">📝 Usage</a></li>
+    <li><a href="#-database-schema">🗄 Database Schema</a></li>
+    <li><a href="#-screenshots--presentation">📸 Screenshots & Presentation</a></li>
+    <li><a href="#-credits">👥 Credits</a></li>
+    <li><a href="#-license">📄 License</a></li>
+  </ul>
+</details>
 
 ---
-© 2025 NOVEL NEST. All rights reserved.
+
+## 📱 Project Overview
+
+NOVEL NEST is a full-stack library management portal featuring:
+
+- **Frontend**: PHP web application with responsive design  
+- **Backend**: PHP with SQLite database  
+- **Database**: SQLite (`nn_library.sqlite`)  
+- **Roles**: User and Admin with role-based access  
+- **File Handling**: PDF books, cover images, and author photos  
+- **Interactive Modules**: Book lending, buying, attendance, news, messaging, and more  
+
+---
+
+## ✨ Features
+
+### 👤 For Users
+- 🔐 **Secure Authentication** – Register, login, and manage profile  
+- 📚 **Book Lending & Buying** – Borrow or purchase books with history tracking  
+- 👩‍🏫 **Author Details** – View author profiles and book lists  
+- 💬 **Messaging System** – Contact branch admins and receive replies  
+- 📰 **News & Updates** – React and comment on news posts  
+- ⭐ **Ratings & Statistics** – Activity-based rating and counters  
+
+### 🛠 For Admins
+- 📊 **Dashboard Analytics** – Monitor users, books, sales, and news  
+- 👥 **User Management** – Manage users and admins  
+- 📋 **Book & Author Management** – Add, edit, delete, and organize  
+- 🏢 **Branch Management** – Track books and attendance per branch  
+- 📰 **News & Messaging** – Post news and reply to user messages  
+
+### ⚙️ Technical Features
+- 🎨 **Responsive UI** – Mobile-friendly, modern design  
+- 📄 **PDF Support** – Upload and download book PDFs  
+- 🔍 **Search & Filters** – Quick lookup for books, authors, and news  
+- 🗄 **SQLite Database** – Easy deployment and lightweight setup  
+- 📈 **Statistics** – User and system activity tracking  
+
+---
+
+## 🏗️ Project Structure
+
