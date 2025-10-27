@@ -47,7 +47,7 @@ A comprehensive library management system connecting users, authors, and adminis
 
 ## 📸 Report_Presentation
 <div align="center">
-  <img src="assets/Screenshots/report1.png" alt="Report Cover" width="350"/></b>
+  <img src="assets/Screenshots/report1.png" alt="Report Cover" width="350"/></div>
   <img src="assets/Screenshots/slide1.png" alt="Slide about used tools" width="350"/>
   <img src="assets/Screenshots/report2.png" alt="Report2" width="350"/>
   <img src="assets/Screenshots/report3.png" alt="Report3" width="350"/>
