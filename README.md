@@ -169,7 +169,7 @@ cd Novel NEST - DBMS Project
       <br>
       <a href="https://github.com/Jubair-Adib">💻 🎨 📱</a>
       <br>
-      <small>Full Stack Developer & Problem Solver</small>
+      <small>Full Stack Developer</small>
     </td>
     <td align="center">
       <img src="assets/about/ariful.jpg" width="100px;" height="100px;" alt="Ariful Islam" style="border-radius: 50%; object-fit: cover;"/>
@@ -178,7 +178,7 @@ cd Novel NEST - DBMS Project
       <br>
       <a href="https://github.com/arif-5223">💻 🗃️ ⚡</a>
       <br>
-      <small>Developer & Specialist</small>
+      <small>Developer & Designer</small>
     </td>
   </tr>
 </table>
@@ -194,7 +194,8 @@ This project is for educational use. You may adapt and extend it for your own ne
 - 📧 Email: akteradib007@gmail.com
 - 📊 Presentation: [45_59_DBMS_Presentation.pptx](assets/45_59_DBMS_Presentation.pptx)
 - 📑 Report: [NN_Project_Report.pdf](assets/NN_Project_Report.pdf)
-
+- 🎬 **YouTube Video:** [Watch here](https://www.youtube.com/watch?v=07vLCEDpndQ&t=37s)
+- 📂 **Google Drive:** [Download files](https://drive.google.com/file/d/1PcxvIgPNgpfebrvAVRepE53Y2yCODdt4/view)
 
 ---
 <div align="center">
