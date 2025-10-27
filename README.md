@@ -32,9 +32,9 @@ A comprehensive library management system connecting users, authors, and adminis
   <img src="assets/Screenshots/menu.png" alt="Home Screenshot" width="350"/>
   <img src="assets/Screenshots/books.png" alt="Books Screenshot" width="350"/>
   <img src="assets/Screenshots/update_author.png" alt="Authors Screenshot" width="350"/>
-  <img src="assets/Screenshots/database_SQLite.png" alt="Database Screenshot" width="350"/>
+  <img src="assets/Screenshots/Attendence_lend.png" alt="Attendence & lend Screenshot" width="350"/>
   <img src="assets/Screenshots/profile.png" alt="Profile Screenshot" width="350"/>
-  <img src="assets/Screenshots/detailed_news.png" alt="News Screenshot" width="350"/>
+  <img src="assets/Screenshots/update_news.png" alt="News Screenshot" width="350"/>
 </div>
 
 ## 📚 Project Overview
