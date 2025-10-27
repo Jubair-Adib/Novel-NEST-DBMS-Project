@@ -6,63 +6,94 @@
 
 A modern, full-featured **Library Management System** built with PHP and SQLite. Designed for both users and admins, this system supports book management, lending, buying, attendance, news, messaging, and much more — ideal for university coursework and real-world use.
 
+<div align="center">
+  <img src="assets/logo.png" alt="NOVEL NEST Logo" width="300"/>
+  <h1>NOVEL NEST 📚</h1>
+  <p>A modern, full-featured <strong>Library Management System</strong> built with PHP and SQLite.</p>
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Language-PHP_7.4%2B-8892BF?style=for-the-badge&logo=php" alt="PHP Version">
+  <img src="https://img.shields.io/badge/Database-SQLite-003B57?style=for-the-badge&logo=sqlite" alt="SQLite Database">
+  <img src="https://img.shields.io/badge/License-Educational%20Use-blue?style=for-the-badge" alt="License">
+</div>
+
 ---
 
 ## 📑 Table of Contents
 
 <details open>
   <summary><b>Expand Table of Contents</b></summary>
-  - [Project Overview](#-project-overview)
-  - [Features](#✨-features)
-  - [Project Structure](#-project-structure)
-  - [Setup Instructions](#-setup-instructions)
-  - [Usage](#-usage)
-  - [Database Schema](#-database-schema)
-  - [Screenshots & Presentation](#-screenshots--presentation)
-  - [Credits](#-credits)
-  - [License](#-license)
+  <ul>
+    <li><a href="#-project-overview">📱 Project Overview</a></li>
+    <li><a href="#-key-features">✨ Key Features</a></li>
+    <li><a href="#-prerequisites">✅ Prerequisites</a></li>
+    <li><a href="#-setup-instructions">🚀 Setup Instructions</a></li>
+    <li><a href="#-usage-and-default-logins">📝 Usage and Default Logins</a></li>
+    <li><a href="#-database-schema">🗄 Database Schema</a></li>
+    <li><a href="#-project-structure">🏗️ Project Structure</a></li>
+    <li><a href="#-credits-and-license">👥 Credits and License</a></li>
+  </ul>
 </details>
 
 ---
 
 ## 📱 Project Overview
 
-NOVEL NEST is a full-stack library management portal featuring:
+**NOVEL NEST** is a robust, full-stack **Library Management Portal** designed for both academic coursework and real-world application. It implements comprehensive features for managing books, users, lending/buying transactions, and internal communication (news, messaging, attendance).
 
-- **Frontend:** PHP web app with responsive design  
-- **Backend:** PHP & SQLite database  
-- **Database:** SQLite file `nn_library.sqlite`  
-- **User Roles:** User and Admin with role-based access control  
-- **File Handling:** Support for PDF books, cover images, and author photos  
-- **Interactive Modules:** Book lending, buying, attendance, news, messaging  
+### Technology Stack
+| Component | Technology | Details |
+| :--- | :--- | :--- |
+| **Frontend** | HTML, CSS, JavaScript | Responsive web application |
+| **Backend** | **PHP** | Core logic, routing, and database interaction |
+| **Database** | **SQLite** (`nn_library.sqlite`) | Lightweight, file-based database |
+| **Architecture** | **Full-stack** | User and Admin roles with role-based access control |
 
 ---
 
-## ✨ Features
+## ✨ Key Features
 
-### 👤 For Users
-- 🔐 Secure Authentication: Registration, login, profile management  
-- 📚 Book Lending & Buying with history tracking  
-- 👩‍🏫 Author Profiles and associated book lists  
-- 💬 Messaging system to communicate with branch admins  
-- 📰 News & Updates with reactions and comments  
-- ⭐ Ratings & Statistics based on user activity  
+### 👤 For Users (Students/Members)
+* 🔐 **Secure Authentication** – Register, login, and manage personal profile details.
+* 📚 **Book Management** – View, search, filter, **Lend**, and **Buy** books with transaction history tracking.
+* 💬 **Messaging System** – Directly contact branch administrators and receive replies within the platform.
+* 📰 **News & Updates** – View official library news, and interact with posts via **reactions** and **comments**.
+* ⭐ **Ratings & Statistics** – Track personal activity with counters for lent/bought books and overall activity-based rating.
 
-### 🛠 For Admins
-- 📊 Dashboard analytics tracking users, books, sales, news  
-- 👥 Manage users and admin accounts  
-- 📋 Add, edit, delete books and authors  
-- 🏢 Manage branches including books and attendance  
-- 📰 Post news and respond to user messages  
+### 🛠 For Admins (Librarians/Staff)
+* 📊 **Dashboard Analytics** – Comprehensive overview of key metrics: total users, books, sales, and news activity.
+* 👥 **User & Admin Management** – Full CRUD (Create, Read, Update, Delete) for managing users and staff accounts.
+* 📋 **Book & Author Management** – Dedicated modules to add, edit, delete, and organize books, authors, and book categories.
+* 🏢 **Branch Management** – Manage physical library branches, track book inventory, and log staff/user **attendance** per branch.
+* 📬 **Communication** – Post new news updates and manage/reply to user messages.
 
 ### ⚙️ Technical Highlights
-- 🎨 Responsive UI, mobile-friendly  
-- 📄 Upload and download PDF books  
-- 🔍 Search and filter for books, authors, news  
-- 🗄 Lightweight SQLite database for easy setup  
-- 📈 Track user and system activity statistics  
+* 🎨 **Responsive UI** – Modern, mobile-friendly design.
+* 📄 **File Handling** – Support for uploading and viewing book PDFs, cover images, and author photos.
+* 🔍 **Advanced Search & Filters** – Quick, efficient lookup across all major entities (books, authors, news).
 
 ---
+
+## ✅ Prerequisites
+
+1.  **Web Server:** An environment like **XAMPP**, **MAMP**, or **WAMP** is recommended.
+2.  **PHP:** Version **7.4+** or newer.
+3.  **SQLite Extension:** Ensure the **PHP PDO SQLite extension** is enabled in your `php.ini` file.
+
+---
+
+## 🚀 Setup Instructions
+
+Follow these steps to get NOVEL NEST running on your local machine.
+
+### 1. Clone the Repository
+
+Open your terminal and clone the project into your web server's root directory (e.g., `C:\xampp\htdocs`):
+
+```bash
+git clone <repo-url>
+cd Novel-NEST-DBMS-Project
 
 ## 🏗️ Project Structure
 
