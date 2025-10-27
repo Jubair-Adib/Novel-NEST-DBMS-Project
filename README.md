@@ -52,8 +52,6 @@ A comprehensive library management system connecting users, authors, and adminis
 <div align="center">
   <img src="assets/Screenshots/report2.png" alt="Report2" width="350"/>
   <img src="assets/Screenshots/report3.png" alt="Report3" width="350"/>
-  <img src="assets/Screenshots/report4.png" alt="Report4" width="350"/>
-  <img src="assets/Screenshots/report5.png" alt="Report5" width="350"/>
   <img src="assets/Screenshots/slide1.png" alt="Slide Cover" width="350"/>
   <img src="assets/Screenshots/slide4.png" alt="Slide about used tools" width="350"/>
 </div>
