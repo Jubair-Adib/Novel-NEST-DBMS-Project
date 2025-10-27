@@ -10,7 +10,7 @@ A comprehensive library management system connecting users, authors, and adminis
 <details open>
   <summary><b>Expand Table of Contents</b></summary>
   <ul>
-    <li><a href="#-project-overvie">📷 Screenshots</a></li>
+    <li><a href="#-Screenshots">📷 Screenshots</a></li>
     <li><a href="#-project-overview">📚 Project Overview</a></li>
     <li><a href="#-features">✨ Features</a></li>
     <li><a href="#-prerequisites">📋 Prerequisites</a></li>
