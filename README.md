@@ -115,11 +115,17 @@ cd Novel NEST - DBMS Project
 - All profile images, book covers, and author photos in `assets/`, besides video recording, screenshots are also there.
 
 ### 5. Run the App
-- Open `index.php` in your browser
-- adib@192 NN % cd /Users/adib/Project/NN (go to hte project base, this is an example)
-- adib@192 NN % php -S localhost:8000 (This is the backend running.)
+- Open `index.php` in your browser 
+```bash
+cd Novel NEST - DBMS Project 
+php -S localhost:8000
+```
+- Open `index.php` in your browser or http://localhost:8000
 - Register as user or login as admin
-- adib@192 NN % sqlite3 /Users/adib/Project/NN/db/nn_library.sqlite (If you want to use database) 
+- If you want to use database
+```bash
+sqlite3 Novel NEST - DBMS Project/db/nn_library.sqlite  
+```
 
 ## 🏗️ Project Architecture
 
