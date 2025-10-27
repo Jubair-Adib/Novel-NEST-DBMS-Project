@@ -10,6 +10,7 @@ A comprehensive library management system connecting users, authors, and adminis
 <details open>
   <summary><b>Expand Table of Contents</b></summary>
   <ul>
+    <li><a href="#-project-overvie">📚xv Screenshots</a></li>
     <li><a href="#-project-overview">📚 Project Overview</a></li>
     <li><a href="#-features">✨ Features</a></li>
     <li><a href="#-prerequisites">📋 Prerequisites</a></li>
@@ -28,12 +29,12 @@ A comprehensive library management system connecting users, authors, and adminis
 
 ## 📸 Screenshots
 <div align="center">
-  <img src="assets/Screenshots/1.png" alt="Home Screenshot" width="350"/>
-  <img src="assets/Screenshots/2.png" alt="Books Screenshot" width="350"/>
-  <img src="assets/Screenshots/3.png" alt="Authors Screenshot" width="350"/>
-  <img src="assets/Screenshots/4.png" alt="Admin Dashboard Screenshot" width="350"/>
-  <img src="assets/Screenshots/5.png" alt="Profile Screenshot" width="350"/>
-  <img src="assets/Screenshots/6.png" alt="News Screenshot" width="350"/>
+  <img src="assets/Screenshots/menu.png" alt="Home Screenshot" width="350"/>
+  <img src="assets/Screenshots/books.png" alt="Books Screenshot" width="350"/>
+  <img src="assets/Screenshots/update_authors.png" alt="Authors Screenshot" width="350"/>
+  <img src="assets/Screenshots/database_SQLite.png" alt="Database Screenshot" width="350"/>
+  <img src="assets/Screenshots/profile.png" alt="Profile Screenshot" width="350"/>
+  <img src="assets/Screenshots/detailed_news.png" alt="News Screenshot" width="350"/>
 </div>
 
 ## 📚 Project Overview
