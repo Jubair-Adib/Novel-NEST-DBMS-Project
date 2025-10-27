@@ -102,6 +102,7 @@ NOVEL NEST is a full-stack web application for library management:
 ```bash
 git clone https://github.com/Jubair-Adib/novel-nest.git
 cd Novel NEST - DBMS Project
+mv "Novel NEST - DBMS Project" "NN"
 ```
 
 ### 2. Database Setup
@@ -117,14 +118,14 @@ cd Novel NEST - DBMS Project
 ### 5. Run the App
 - Open `index.php` in your browser 
 ```bash
-cd Novel NEST - DBMS Project 
+cd NN 
 php -S localhost:8000
 ```
 - Open `index.php` in your browser or http://localhost:8000
 - Register as user or login as admin
 - If you want to use database
 ```bash
-sqlite3 Novel NEST - DBMS Project/db/nn_library.sqlite  
+sqlite3 NN/db/nn_library.sqlite  
 ```
 
 ## 🏗️ Project Architecture
