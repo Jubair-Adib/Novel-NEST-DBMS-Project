@@ -193,7 +193,7 @@ This project is for educational use. You may adapt and extend it for your own ne
 ## 🆘 Support & Documentation
 - 📧 Email: akteradib007@gmail.com
 - 📊 Presentation: [NOVEL NEST - Project_Presentation.pptx](assets/45_59_DBMS_Presentation.pptx)
-- 📑 Report: [NOVEL NEST - Project_Proposal Report.pdf](assets/45_59_DBMS_Project_Library_Management_System__Schema_ (2).pdf)
+- 📑 Report: [NOVEL NEST - Project_Proposal Report.pdf](assets/45_59_DBMS_Project_Library_Management_System__Schema_(2).pdf)
 - 🎬 **YouTube Video:** [Watch here](https://www.youtube.com/watch?v=07vLCEDpndQ&t=37s)
 - 📂 **Google Drive:** [Download files](https://drive.google.com/file/d/1PcxvIgPNgpfebrvAVRepE53Y2yCODdt4/view)
 
