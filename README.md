@@ -10,6 +10,7 @@ A comprehensive library management system connecting users, authors, and adminis
 <details open>
   <summary><b>Expand Table of Contents</b></summary>
   <ul>
+    <li><a href="#-Schema Diagram">📸 Schema Diagram</a></li>
     <li><a href="#-Screenshots">📷 Screenshots</a></li>
     <li><a href="#-project-overview">📚 Project Overview</a></li>
     <li><a href="#-features">✨ Features</a></li>
@@ -26,6 +27,12 @@ A comprehensive library management system connecting users, authors, and adminis
 </details>
 
 ---
+## 📸 Schema Diagram
+<div align="center">
+  <img src="assets/Screenshots/schemad1.png" alt="Schema Diagram" width="700"/>
+  <br>
+  <small><i>Schema Diagram for NOVEL NEST</i></small>
+</div>
 
 ## 📸 Screenshots
 <div align="center">
