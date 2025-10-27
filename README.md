@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/logo.png" alt="NOVEL NEST Logo" width="300"/>
+  <img src="assets/Screenshots/logo.png" alt="NOVEL NEST Logo" width="300"/>
 </div>
 
 # NOVEL NEST 📚
