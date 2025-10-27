@@ -47,11 +47,11 @@ A comprehensive library management system connecting users, authors, and adminis
 
 ## 📸 Report_Presentation
 <div align="center">
-  <img src="assets/Screenshots/report1.png" alt="Report Cover" width="350"/>
+  <img src="assets/Screenshots/report1.png" alt="Report Cover" width="350"/></div>b
   <img src="assets/Screenshots/slide1.png" alt="Slide about used tools" width="350"/>
-  <img src="assets/Screenshots/report2.png" alt="Authors Screenshot" width="350"/>
-  <img src="assets/Screenshots/report3.png" alt="Attendence & lend Screenshot" width="350"/>
-  <img src="assets/Screenshots/report4.png" alt="Profile Screenshot" width="350"/>
+  <img src="assets/Screenshots/report2.png" alt="Report2" width="350"/>
+  <img src="assets/Screenshots/report3.png" alt="Report3" width="350"/>
+  <img src="assets/Screenshots/report4.png" alt="Report4" width="350"/>
 </div>
 
 ## 📚 Project Overview
