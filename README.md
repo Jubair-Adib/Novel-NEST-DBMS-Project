@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/Screenshots/logo.png" alt="NOVEL NEST Logo" width="220"/>
+  <img src="assets//Screenshots/logo.png" alt="NOVEL NEST Logo" width="220"/>
 </div>
 
 # NOVEL NEST 📚
@@ -25,6 +25,16 @@ A comprehensive library management system connecting users, authors, and adminis
 </details>
 
 ---
+
+## 📸 Screenshots
+<div align="center">
+  <img src="assets/Screenshots/1.png" alt="Home Screenshot" width="350"/>
+  <img src="assets/Screenshots/2.png" alt="Books Screenshot" width="350"/>
+  <img src="assets/Screenshots/3.png" alt="Authors Screenshot" width="350"/>
+  <img src="assets/Screenshots/4.png" alt="Admin Dashboard Screenshot" width="350"/>
+  <img src="assets/Screenshots/5.png" alt="Profile Screenshot" width="350"/>
+  <img src="assets/Screenshots/6.png" alt="News Screenshot" width="350"/>
+</div>
 
 ## 📚 Project Overview
 
