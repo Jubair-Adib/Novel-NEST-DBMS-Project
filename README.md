@@ -94,7 +94,6 @@ NOVEL NEST is a full-stack web application for library management:
 ## 📋 Prerequisites
 - **PHP** 7.4+ (with SQLite PDO extension)
 - **SQLite** (default, or MySQL/PostgreSQL for advanced use)
-- **Web Server** (Apache, Nginx, XAMPP, MAMP, etc.)
 - **Git** (for version control)
 
 ## 🚀 Installation & Setup
@@ -107,19 +106,20 @@ cd Novel NEST - DBMS Project
 
 ### 2. Database Setup
 - SQLite DB auto-generates on first run
-- Schema: `db/schema.sql`
-- Sample data: `db/books_sample.sql`
 
 ### 3. Configure PHP
 - Place project in your web server root (e.g., `htdocs`)
 - Ensure PHP SQLite extension is enabled
 
 ### 4. Assets
-- All images, covers, and author photos in `assets/`
+- All profile images, book covers, and author photos in `assets/`, besides video recording, screenshots are also there.
 
 ### 5. Run the App
 - Open `index.php` in your browser
+- adib@192 NN % cd /Users/adib/Project/NN (go to hte project base, this is an example)
+- adib@192 NN % php -S localhost:8000 (This is the backend running.)
 - Register as user or login as admin
+- adib@192 NN % sqlite3 /Users/adib/Project/NN/db/nn_library.sqlite (If you want to use database) 
 
 ## 🏗️ Project Architecture
 
