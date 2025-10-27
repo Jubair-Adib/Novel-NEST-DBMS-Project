@@ -12,6 +12,7 @@ A comprehensive library management system connecting users, authors, and adminis
   <ul>
     <li><a href="#-Schema Diagram">📸 Schema Diagram</a></li>
     <li><a href="#-Screenshots">📷 Screenshots</a></li>
+    <li><a href="#-Report_Presentation">📋 Report_Presentation</a></li>
     <li><a href="#-project-overview">📚 Project Overview</a></li>
     <li><a href="#-features">✨ Features</a></li>
     <li><a href="#-prerequisites">📋 Prerequisites</a></li>
@@ -42,6 +43,15 @@ A comprehensive library management system connecting users, authors, and adminis
   <img src="assets/Screenshots/attendence_lend.png" alt="Attendence & lend Screenshot" width="350"/>
   <img src="assets/Screenshots/profile.png" alt="Profile Screenshot" width="350"/>
   <img src="assets/Screenshots/update_news.png" alt="News Screenshot" width="350"/>
+</div>
+
+## 📸 Report_Presentation
+<div align="center">
+  <img src="assets/Screenshots/report1.png" alt="Report Cover" width="350"/>
+  <img src="assets/Screenshots/slide1.png" alt="Slide about used tools" width="350"/>
+  <img src="assets/Screenshots/report2.png" alt="Authors Screenshot" width="350"/>
+  <img src="assets/Screenshots/report3.png" alt="Attendence & lend Screenshot" width="350"/>
+  <img src="assets/Screenshots/report4.png" alt="Profile Screenshot" width="350"/>
 </div>
 
 ## 📚 Project Overview
