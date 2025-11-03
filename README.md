@@ -209,7 +209,7 @@ This project is for educational use. You may adapt and extend it for your own ne
   <img src="assets//Screenshots/plogo.png" alt="NOVEL NEST Logo" width="220"/>
 </div>
 
-## 🆘 Support & Documentation
+## Support & Documentation
 - 📧 Email: akteradib007@gmail.com
 - 📊 Presentation: [NOVEL NEST - Project_Presentation.pptx](assets/45_59_DBMS_Presentation.pptx)
 - 📑 Report: [NOVEL NEST - Project_Proposal Report.pdf](assets/45_59_DBMS_Project_Library_Management_System__Schema_(2).pdf)
